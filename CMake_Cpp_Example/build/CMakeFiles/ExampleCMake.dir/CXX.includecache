@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/HeaderFiles/Computer.h
+Technology.h
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/HeaderFiles/Technology.h
+
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/HeaderFiles/Technology.h
+
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/ImplementationFiles/main.cpp
+iostream
+-
+../HeaderFiles/Technology.h
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/HeaderFiles/Technology.h
+../HeaderFiles/Computer.h
+/Users/anthonykuregian/Desktop/Programing/C++_Projects/Learn/CMake_Cpp_Example/HeaderFiles/Computer.h
+
